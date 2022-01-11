@@ -3,17 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhuoran
+first_name: Olivier
 middle_name:
-last_name: Qiao
-email: zqiao@caltech.edu
+last_name: Penacchio
+email: op5@st-andrews.ac.uk
 description: # the ">" symbol means to ignore newlines until "footer_text:"
   A practitioner of Molecular Simulation, Statistical Physics, and Machine Learning. \#AI4Science fellow, PhD student at Miller Group, Caltech.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url:  # the base hostname & protocol for your site
+url: https://openacchio.github.io # was empty! # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 

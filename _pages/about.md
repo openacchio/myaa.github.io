@@ -6,7 +6,7 @@ description: A practitioner of Molecular Simulation, Statistical Physics, and Ma
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: example-id-photograph.jpg # was prof_pic.jpg
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
